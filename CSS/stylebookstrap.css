@@ -119,17 +119,17 @@ clip-path: polygon(0 0, 100% 0, 100% 100%, 0 90%);
 
 .item-1 {
 background: linear-gradient(to right, rgba(11,76,151,0.9),
-rgba(178,211,249,0.5)), url(../Images/carousel/artista.jpg) center/cover fixed no-repeat;
+rgba(178,211,249,0.5)), url(../Images/Carousel/artista.jpg) center/cover fixed no-repeat;
 }
 
 .item-2 {
 background: linear-gradient(to right, rgba(11,76,151,0.9),
-rgba(178,211,249,0.5)), url(../Images/carousel/maker.jpg) center/cover fixed no-repeat;
+rgba(178,211,249,0.5)), url(../Images/Carousel/maker.jpg) center/cover fixed no-repeat;
 }
 
 .item-3 {
 background: linear-gradient(to right, rgba(11,76,151,0.9),
-rgba(178,211,249,0.5)), url(../Images/carousel/polivalente.jpg) center/cover fixed no-repeat;
+rgba(178,211,249,0.5)), url(../Images/Carousel/polivalente.jpg) center/cover fixed no-repeat;
 }
 
 .slide-btn {
